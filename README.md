@@ -1,10 +1,9 @@
 LISTA DE FILMES
-
-
+___________________________________________________________________________________________________________________________________________________________________________________________
 Este programa cria uma lista de filmes em JavaScript, permitindo que o usuário adicione filmes com ano de lançamento, ordene a lista, pesquise filmes específicos, marque filmes como assistidos, remova filmes da lista e exiba a lista completa.
 
-FUNCIONALIDADES:
-
+FUNCIONALIDADES
+___________________________________________________________________________________________________________________________________________________________________________________________
 Adicionar Filme: Adiciona um filme à lista com título e ano de lançamento.
 
 Ordenar a Lista: Organiza os filmes em ordem alfabética.
@@ -19,17 +18,16 @@ Remover Filme: Remove um filme específico da lista.
 
 Encerrar Programa: Termina o programa.
 
-
-COMO USAR:
-
+COMO USAR
+___________________________________________________________________________________________________________________________________________________________________________________________
 Execute o código em um console JavaScript.
 
 Um menu de opções será exibido no console, permitindo interagir com a lista.
 
 Escolha a opção digitando o número correspondente (1-7).
 
-ESTRUTURA DO CÓDIGO:
-
+ESTRUTURA DO CÓDIGO
+___________________________________________________________________________________________________________________________________________________________________________________________
 O código utiliza um loop while para manter o programa em execução até que o usuário escolha encerrar. As opções do menu incluem:
 
 Opção 1: Solicita o título e o ano do filme e o adiciona à lista.
